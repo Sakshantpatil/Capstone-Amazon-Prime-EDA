@@ -3,6 +3,8 @@
 > **A comprehensive Exploratory Data Analysis (EDA) project on the Amazon Prime Video Titles and Credits datasets using Python, Pandas, Matplotlib, and Seaborn.**
 
 ---
+## 🖼️ Project Cover
+<img width="1189" height="590" alt="Chart - 19 Average IMDb Score by Genre and Content Type" src="https://github.com/user-attachments/assets/27cf7cf0-47c4-4a82-8b2f-3d6efae90e5a" />
 
 ## 📌 Project Overview
 
